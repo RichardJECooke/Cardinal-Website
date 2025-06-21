@@ -12,6 +12,7 @@
 <li><a href="https://github.com/netboy3/21kHz-rack-plugins" target="_blank">21kHz</a></li>
 <li><a href="https://github.com/8Mode/8Mode-VCV_Modules" target="_blank">8Mode</a></li>
 <li><a href="https://github.com/aaronstatic/AaronStatic_modules" target="_blank">Aaron Static</a></li>
+<li><a href="https://github.com/wapiflapi/admiral" target="_blank">Admiral</a></li>
 <li><a href="https://github.com/alefnull/alefsbits" target="_blank">alef's bits</a></li>
 <li><a href="https://github.com/algoritmarte/AlgoritmarteVCVPlugin" target="_blank">AlgoritmArte</a></li>
 <li><a href="https://github.com/jhoar/AmalgamatedHarmonics" target="_blank">Amalgamated Harmonics</a></li>
@@ -30,11 +31,11 @@
 <li><a href="https://github.com/catronomix/catro-modulo" target="_blank">Catro/Modulo</a></li>
 <li><a href="https://github.com/cfoulc/cf" target="_blank">cf</a></li>
 <li><a href="https://github.com/jatinchowdhury18/ChowDSP-VCV" target="_blank">ChowDSP</a></li>
-<li><a href="https://github.com/freddyz/computerscare-vcv-modules.git" target="_blank">Computerscare</a></li>
-<li><a href="https://github.com/codygeary/CVfunk-Modules.git" target="_blank">CVfunk</a></li>
+<li><a href="https://github.com/freddyz/computerscare-vcv-modules" target="_blank">Computerscare</a></li>
+<li><a href="https://github.com/codygeary/CVfunk-Modules" target="_blank">CVfunk</a></li>
 <li><a href="https://github.com/dBiz/dBiz" target="_blank">dBiz</a></li>
-<li><a href="https://github.com/dhemery/DHE-Modules.git" target="_blank">DHE Modules</a></li>
-<li><a href="https://svmodular.com/plugin/vcv/drumkit.html" target="_blank">DrumKit</a></li>
+<li><a href="https://github.com/dhemery/DHE-Modules" target="_blank">DHE Modules</a></li>
+<li><a href="https://github.com/scanner-darkly/eightfold" target="_blank">eightfold</a></li>
 <li><a href="https://github.com/EnigmaCurry/EnigmaCurry-vcv-pack" target="_blank">EnigmaCurry</a></li>
 <li><a href="https://github.com/VCVRack/ESeries" target="_blank">E-Series</a></li>
 <li><a href="https://expert-sleepers.co.uk/vcvrack_encoders.html" target="_blank">ExpertSleepers Encoders</a></li>
@@ -64,6 +65,7 @@
 <li><a href="https://github.com/JustMog/Mog-VCV" target="_blank">Mog</a></li>
 <li><a href="https://github.com/mschack/VCV-Rack-Plugins" target="_blank">mscHack</a></li>
 <li><a href="https://github.com/netboy3/MSM-vcvrack-plugin" target="_blank">MSM</a></li>
+<li><a href="https://github.com/Jojosito/MUS-X" target="_blank">MUS-X</a></li>
 <li><a href="https://github.com/Ahineya/vcv-myth-plugin" target="_blank">Myth</a></li>
 <li><a href="https://github.com/mhetrick/nonlinearcircuits" target="_blank">Nonlinear Circuits</a></li>
 <li><a href="https://github.com/RareBreeds/Orbits" target="_blank">Orbits</a></li>
@@ -73,19 +75,20 @@
 <li><a href="https://github.com/VegaDeftwing/PinkTromboneVCV" target="_blank">PinkTrombone</a></li>
 <li><a href="https://github.com/SteveRussell33/Prism" target="_blank">Prism</a></li>
 <li><a href="https://github.com/n0jo/rackwindows" target="_blank">rackwindows</a></li>
-<li><a href="https://github.com/Rcomian/rcm-modules" target="_blank">RCM</a></li>
+<li><a href="https://github.com/Rcomian/rcm-modules/" target="_blank">RCM</a></li>
 <li><a href="https://github.com/hemmer/rebel-tech-vcv" target="_blank">RebelTech</a></li>
 <li><a href="https://github.com/wiqid/repelzen" target="_blank">repelzen</a></li>
 <li><a href="https://github.com/cosinekitty/sapphire" target="_blank">Sapphire</a></li>
 <li><a href="https://gitlab.com/sonusdept/sonusmodular" target="_blank">Sonus Modular</a></li>
-<li><a href="https://github.com/starlingcode/Via-for-Rack.git" target="_blank">Starling Via</a></li>
 <li><a href="https://github.com/aptrn/stocaudio-modules" target="_blank">stocaudio</a></li>
+<li><a href="https://github.com/starlingcode/Via-for-Rack" target="_blank">Starling Via</a></li>
 <li><a href="https://github.com/stoermelder/vcvrack-packone" target="_blank">Stoermelder Pack-One</a></li>
 <li><a href="https://github.com/surge-synthesizer/surge-rack" target="_blank">Surge XT</a></li>
 <li><a href="https://gitlab.com/unlessgames/unless_modules" target="_blank">unless_modules</a></li>
 <li><a href="https://github.com/ValleyAudio/ValleyRackFree" target="_blank">Valley</a></li>
 <li><a href="https://github.com/clone45/voxglitch" target="_blank">Voxglitch</a></li>
 <li><a href="https://github.com/korfuri/WhatTheRack" target="_blank">WhatTheRack</a></li>
+<li><a href="https://github.com/Wasted-Audio/WSTD-Drums" target="_blank">WSTD-Drums</a></li>
 <li><a href="https://github.com/mhampton/ZetaCarinaeModules" target="_blank">ZetaCarinae</a></li>
 <li><a href="https://github.com/zezic/ZZC" target="_blank">ZZC</a></li>
 </ul>
